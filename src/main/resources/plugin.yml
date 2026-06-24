@@ -1,0 +1,9 @@
+name: CelestialAuth
+version: 1.0
+main: ru.celestial.auth.CelestialAuth
+api-version: 1.20
+commands:
+  register:
+    description: Регистрация на Celestial BoxPVP
+  login:
+    description: Вход на Celestial BoxPVP
